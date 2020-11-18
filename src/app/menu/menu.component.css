@@ -1,0 +1,43 @@
+
+.container-fluid {
+  background-color: rgb(245, 240, 231);
+  padding-left: 0;
+  padding-right: 0;
+  width: 100vw;
+}
+
+
+.header-pic {
+  height: 350px;
+  width: 100vw;
+}
+
+.header-pic img {
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+ overflow: hidden;
+}
+
+.row {
+  margin-left: 0;
+  margin-right: 0;
+
+}
+
+h2 {
+  color: rgb(236, 72, 31);
+}
+
+.breakfast-row {
+  padding-top: 20px;
+}
+
+.disclaimers-row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.disclaimers-col {
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+
+
+<app-navbar></app-navbar>
+<div class="contianer-fluid">
+  <div class="row">
+    <div class="col-9" >
+      <agm-map [latitude]="lat" [longitude]="lng" [zoom]="zoom">
+
+        <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+      </agm-map>
+    </div>
+    <div class="col-3 location-info">
+      <h4>Location</h4>
+
+      <p>114. Elm St,</p>
+
+      <p>Medina, OH, 44256</p>
+
+      <p>330-789-4561</p>
+    </div>
+  </div>
+</div>
+
+
+
+<app-footer></app-footer>

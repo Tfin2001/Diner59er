@@ -1,0 +1,23 @@
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+.row {
+  background-color: rgb(245, 240, 231);
+}
+
+.location-info {
+  text-align: right;
+
+}
+
+h4, p {
+  padding-right: 10px;
+}
+
+agm-map {
+  height: 300px;
+}
+
+

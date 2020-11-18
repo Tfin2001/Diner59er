@@ -1,0 +1,18 @@
+.navbar {
+  background-color: rgb(236, 72, 31);
+
+}
+
+li {
+  color: white;
+}
+
+
+img {
+  height: 32px;
+  width: 32px;
+}
+
+nav {
+  width: 100vw;
+}

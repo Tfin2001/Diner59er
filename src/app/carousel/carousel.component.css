@@ -1,0 +1,34 @@
+#carouselExampleFade {
+  background-color: rgb(245, 240, 231);
+  width: 100vw;
+  padding-bottom: 40px;
+}
+
+.carousel-inner {
+  height: 75%;
+  width: 75%;
+  margin: auto;
+}
+
+img {
+  height:500px;
+  width: 600px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+
+  background-image: none;
+}
+
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: rgb(236, 72, 31);
+}
+.carousel-control-next-icon:after {
+  content: '>';
+  font-size: 55px;
+  color: rgb(236, 72, 31);
+}

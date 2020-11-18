@@ -1,0 +1,61 @@
+
+
+.catering-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://thumbs.dreamstime.com/b/catering-food-29643251.jpg");
+   height: 300px;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.catering-image-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.container-fluid {
+  background-color: rgb(245, 240, 231);
+  width: 100vw;
+}
+
+.row {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.catering-heading {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h3, h4, strong {
+  color: rgb(236, 72, 31);
+}
+
+hr {
+  height: 2px;
+  width: 65%;
+  border-width: 0;
+  color: rgb(236, 72, 31);
+  background-color: rgb(236, 72, 31);
+
+
+}
+
+.dinner-heading {
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.buffet-options {
+  text-align: center;
+}

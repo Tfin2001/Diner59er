@@ -1,0 +1,33 @@
+
+
+.hero-pic {
+  height: 600px;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0,0,0,0.5)), url("https://assets3.thrillist.com/v1/image/2758437/2880x3000/scale;jpeg_quality=60;progressive.jpg") ;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  width: 100vw;
+
+}
+
+.hero-text {
+  text-align: center;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+
+.diner-heading {
+  font-size: 6em;
+}
+
+.diner-heading-tag {
+  font-style: italic;
+}

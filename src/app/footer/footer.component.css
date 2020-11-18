@@ -1,0 +1,23 @@
+.container-fluid {
+  background-color: rgb(236, 72, 31);
+  color: white;
+  padding: 0 !important;
+  width: 100vw;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+  width: 100%;
+  padding-top: 10px;
+}
+
+.col-sm-4 {
+  padding: 0;
+}
+
+img {
+  height: 64px;
+  width: 64px;
+  padding: 5px;
+}
